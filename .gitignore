@@ -11,6 +11,15 @@
 /[Mm]emoryCaptures/
 /.vscode/
 
+Unity/[Ll]ibrary/
+Unity/[Tt]emp/
+Unity/[Oo]bj/
+Unity/[Bb]uild/
+Unity/[Bb]uilds/
+Unity/[Ll]ogs/
+Unity/[Mm]emoryCaptures/
+Unity/.vscode/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -44,6 +53,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.vscode
+*.vsconfig
 
 # Unity3D generated meta files
 *.pidb.meta
