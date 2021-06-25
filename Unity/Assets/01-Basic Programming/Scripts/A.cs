@@ -58,8 +58,8 @@ public class A : MonoBehaviour
         myArray = new int[5];
         print(myArray);
 
-        myArray[1] = 7;
-        myArray[2] = 13;
+        myArray[1] = 8;
+        myArray[2] = 21;
         //myArray[3] = "hello"; //error
         //myArray[55] = 34534; //error
 
@@ -103,7 +103,7 @@ public class A : MonoBehaviour
 
         if( 5+5 > 6 )
         {
-            print("def bigger");
+            print("very bigger");
         }
 
         if( "rich" == "rich" )
