@@ -20,6 +20,15 @@ Unity/[Ll]ogs/
 Unity/[Mm]emoryCaptures/
 Unity/.vscode/
 
+Unity2D/[Ll]ibrary/
+Unity2D/[Tt]emp/
+Unity2D/[Oo]bj/
+Unity2D/[Bb]uild/
+Unity2D/[Bb]uilds/
+Unity2D/[Ll]ogs/
+Unity2D/[Mm]emoryCaptures/
+Unity2D/.vscode/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
